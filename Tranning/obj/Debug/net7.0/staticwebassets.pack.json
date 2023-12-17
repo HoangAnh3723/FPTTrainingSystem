@@ -1,0 +1,1945 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tranning.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Tranning.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\css\\Loginstyle.css",
+      "PackagePath": "staticwebassets\\assets\\css\\Loginstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\css\\soft-ui-dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\soft-ui-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\css\\soft-ui-dashboard.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\soft-ui-dashboard.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\css\\soft-ui-dashboard.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\soft-ui-dashboard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\bg1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\btec.png",
+      "PackagePath": "staticwebassets\\assets\\img\\btec.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\btec1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\btec1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved0.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved11-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved11-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved21.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved5-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved5-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved6-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved6-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\curved9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\curved-images\\white-curved.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\white-curved.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\illustrations\\rocket-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\rocket-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\marie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\shapes\\shape-1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\shapes\\shape-2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\shapes\\shape-3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\shapes\\wave-down.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\wave-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\shapes\\wave-up.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\wave-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\shapes\\waves-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\waves-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-webdev.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-webdev.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\theme\\angular.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\angular.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\theme\\bootstrap.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\bootstrap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\theme\\dribbble.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\theme\\dropbox.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\dropbox.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\theme\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\theme\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\theme\\react.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\react.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\theme\\sketch.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\sketch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\theme\\slack.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\theme\\spotify.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\spotify.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\theme\\tim.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\tim.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\theme\\unass.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\unass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\theme\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\theme\\vue.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\vue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\js\\soft-ui-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\soft-ui-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\js\\soft-ui-dashboard.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\soft-ui-dashboard.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\js\\soft-ui-dashboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\soft-ui-dashboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_avatars.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_dark-version.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_dropup.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_tilt.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_utilities-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_maps.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\assets\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\924c0ef9-393d-4bb5-bda0-9460be5256b4-Screenshot 2023-11-17 161733.png",
+      "PackagePath": "staticwebassets\\uploads\\924c0ef9-393d-4bb5-bda0-9460be5256b4-Screenshot 2023-11-17 161733.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\documents\\9105bf6b-9c7d-4dba-a64d-6eb52610e877_536162912-ASM1-SDLC-ManhBHAF200079-DESKTOP-EDJGI2J.docx",
+      "PackagePath": "staticwebassets\\uploads\\documents\\9105bf6b-9c7d-4dba-a64d-6eb52610e877_536162912-ASM1-SDLC-ManhBHAF200079-DESKTOP-EDJGI2J.docx"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\0035d586-0e00-46f7-88a8-b7af3d98eb69-Screenshot 2023-12-15 173641.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\0035d586-0e00-46f7-88a8-b7af3d98eb69-Screenshot 2023-12-15 173641.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\023c37be-0200-49c6-81ef-292963410151-z2997854160533_d736a5036e1d59d092e45ec74bad3e48.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\023c37be-0200-49c6-81ef-292963410151-z2997854160533_d736a5036e1d59d092e45ec74bad3e48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\0347d18e-0ecf-48d0-aee6-ab07cf19e8d5-30da1ed0f8a72cf975b6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\0347d18e-0ecf-48d0-aee6-ab07cf19e8d5-30da1ed0f8a72cf975b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\0508ee24-97a4-4178-b4af-642d42d60fc9-anhdemo.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\0508ee24-97a4-4178-b4af-642d42d60fc9-anhdemo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\052d8acb-d17b-40ad-bd19-7add359b80e9-Web development.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\052d8acb-d17b-40ad-bd19-7add359b80e9-Web development.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\0617b216-aced-428e-aa3e-866d2b1bd07f-Introduction to Programming.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\0617b216-aced-428e-aa3e-866d2b1bd07f-Introduction to Programming.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\06ac0418-f72e-4f7c-970c-9c883afaa3a7-1 (1).docx",
+      "PackagePath": "staticwebassets\\uploads\\images\\06ac0418-f72e-4f7c-970c-9c883afaa3a7-1 (1).docx"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\0929cccb-8c3d-42cb-ad2b-a526ca84faef-30da1ed0f8a72cf975b6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\0929cccb-8c3d-42cb-ad2b-a526ca84faef-30da1ed0f8a72cf975b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\0e407d6c-83fa-4875-a3e8-23f775fbe7cd-240728056_861696658068161_7268963085187385448_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\0e407d6c-83fa-4875-a3e8-23f775fbe7cd-240728056_861696658068161_7268963085187385448_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\1 (1).docx",
+      "PackagePath": "staticwebassets\\uploads\\images\\1 (1).docx"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\10cf12c0-12cb-408a-a925-47aaa340d6da-Screenshot 2023-12-15 173641.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\10cf12c0-12cb-408a-a925-47aaa340d6da-Screenshot 2023-12-15 173641.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\147b1f67-7b57-44aa-b739-f51a4b7cee3a-4000_3_08.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\147b1f67-7b57-44aa-b739-f51a4b7cee3a-4000_3_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\152171b5-6f62-4d1c-9f17-469522f4c16f-Networking.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\152171b5-6f62-4d1c-9f17-469522f4c16f-Networking.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\164885b4-be99-4749-8d2a-b22ffd82893d-4a4942256ccdac93f5dc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\164885b4-be99-4749-8d2a-b22ffd82893d-4a4942256ccdac93f5dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\1a481ddd-bd08-4aed-9304-d898c29db716-Networking.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\1a481ddd-bd08-4aed-9304-d898c29db716-Networking.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\1b98c911-f368-4a03-b7f7-03e37d904d5c-Screenshot 2023-12-15 175552.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\1b98c911-f368-4a03-b7f7-03e37d904d5c-Screenshot 2023-12-15 175552.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\1e3259ac-58b6-4b07-b11a-3f97d72abcf6-2.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\1e3259ac-58b6-4b07-b11a-3f97d72abcf6-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\231c0b35-911f-4f7a-bca0-2ce9c9a91ce6-Cloud Computing.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\231c0b35-911f-4f7a-bca0-2ce9c9a91ce6-Cloud Computing.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\2559767b-4923-4c18-b5e3-ad15ac354b1c-2022-11-28-21-57-27_0.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\2559767b-4923-4c18-b5e3-ad15ac354b1c-2022-11-28-21-57-27_0.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\2575af65-b8ce-47bd-b10a-e483344a657f-1 (1).docx",
+      "PackagePath": "staticwebassets\\uploads\\images\\2575af65-b8ce-47bd-b10a-e483344a657f-1 (1).docx"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\267ac69a-ee0c-4a56-832a-070a77439cd3-4k-oaax18kaapkokaro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\267ac69a-ee0c-4a56-832a-070a77439cd3-4k-oaax18kaapkokaro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\2aef3577-dd55-4626-a867-54654ff917bd-2d3c4ec3-65b0-4e9b-9870-b9b07d4ccb36-240728056_861696658068161_7268963085187385448_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\2aef3577-dd55-4626-a867-54654ff917bd-2d3c4ec3-65b0-4e9b-9870-b9b07d4ccb36-240728056_861696658068161_7268963085187385448_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\2b5245f3-c2aa-4f83-a60a-cef750e84526-4a4942256ccdac93f5dc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\2b5245f3-c2aa-4f83-a60a-cef750e84526-4a4942256ccdac93f5dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\2b6b9afd-2ea1-4db9-8740-bf4bbe9d3e66-4000_3_08.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\2b6b9afd-2ea1-4db9-8740-bf4bbe9d3e66-4000_3_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\2d3c4ec3-65b0-4e9b-9870-b9b07d4ccb36-240728056_861696658068161_7268963085187385448_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\2d3c4ec3-65b0-4e9b-9870-b9b07d4ccb36-240728056_861696658068161_7268963085187385448_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\2ddec13e-0a41-453e-a5f8-4df97aa758d2-Ảnh chụp màn hình (5).png",
+      "PackagePath": "staticwebassets\\uploads\\images\\2ddec13e-0a41-453e-a5f8-4df97aa758d2-Ảnh chụp màn hình (5).png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\2dedbe68-5f3b-4463-8ba9-2b9adda94ecd-1ST_ASM2_Cloud_Computing_TranHoangAnh_BH00173.pdf",
+      "PackagePath": "staticwebassets\\uploads\\images\\2dedbe68-5f3b-4463-8ba9-2b9adda94ecd-1ST_ASM2_Cloud_Computing_TranHoangAnh_BH00173.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\2fde0979-c29b-4a6d-a079-8bb56e56a87f-1ST_ASM2_Cloud_Computing_TranHoangAnh_BH00173.docx",
+      "PackagePath": "staticwebassets\\uploads\\images\\2fde0979-c29b-4a6d-a079-8bb56e56a87f-1ST_ASM2_Cloud_Computing_TranHoangAnh_BH00173.docx"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\32d46dbe-61aa-43e3-88dc-d956094a322d-Database.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\32d46dbe-61aa-43e3-88dc-d956094a322d-Database.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\35321a50-83dd-4cad-8adb-170ca7c8d930-Data Structures and Algorithms.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\35321a50-83dd-4cad-8adb-170ca7c8d930-Data Structures and Algorithms.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\35ac020d-613a-43be-8ccf-5b6fbf8d2c5b-Screenshot 2023-11-17 161733.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\35ac020d-613a-43be-8ccf-5b6fbf8d2c5b-Screenshot 2023-11-17 161733.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\38734029-9993-45ba-8419-fdf4afbaf446-25ebf081cd911fcf4680.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\38734029-9993-45ba-8419-fdf4afbaf446-25ebf081cd911fcf4680.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\3881eb30-d93a-4e0d-82b0-20f0110dfa56-4a4942256ccdac93f5dc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\3881eb30-d93a-4e0d-82b0-20f0110dfa56-4a4942256ccdac93f5dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\388396d7-ecea-450b-9dfd-6867307a3fed-1b98c911-f368-4a03-b7f7-03e37d904d5c-Screenshot 2023-12-15 175552.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\388396d7-ecea-450b-9dfd-6867307a3fed-1b98c911-f368-4a03-b7f7-03e37d904d5c-Screenshot 2023-12-15 175552.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\3a4bd25d-de24-4796-a7f0-fa92acacc5ac-Programming.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\3a4bd25d-de24-4796-a7f0-fa92acacc5ac-Programming.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\3c883b8b-d555-4957-ad11-653c49f9127f-Cloud Computing.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\3c883b8b-d555-4957-ad11-653c49f9127f-Cloud Computing.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\3e28c7be-23a1-4655-8e9b-86d27e350821-1 (1).docx",
+      "PackagePath": "staticwebassets\\uploads\\images\\3e28c7be-23a1-4655-8e9b-86d27e350821-1 (1).docx"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\40226465-38e0-41b5-bdd0-de2076ee41a8-25ebf081cd911fcf4680.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\40226465-38e0-41b5-bdd0-de2076ee41a8-25ebf081cd911fcf4680.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\42258e97-001b-47f4-bcf0-b0479705f85e-Object-Oriented Programming (OOP).jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\42258e97-001b-47f4-bcf0-b0479705f85e-Object-Oriented Programming (OOP).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\4490f671-b68f-4b1f-a1ec-02ff0d24701b-Screenshot 2023-12-15 175552.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\4490f671-b68f-4b1f-a1ec-02ff0d24701b-Screenshot 2023-12-15 175552.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\4566753e-43d5-4f8a-b263-ba133cf10c05-Data Structures and Algorithms.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\4566753e-43d5-4f8a-b263-ba133cf10c05-Data Structures and Algorithms.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\46ae53e7-9637-458a-8643-a1d1a7ffb915-Screenshot 2023-12-15 173641.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\46ae53e7-9637-458a-8643-a1d1a7ffb915-Screenshot 2023-12-15 173641.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\491039aa-f93a-4164-aec2-329a0ed276de-4a4942256ccdac93f5dc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\491039aa-f93a-4164-aec2-329a0ed276de-4a4942256ccdac93f5dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\4b2fe1a5-e5b1-4057-bffb-3083ca5c7a01-30da1ed0f8a72cf975b6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\4b2fe1a5-e5b1-4057-bffb-3083ca5c7a01-30da1ed0f8a72cf975b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\4ee3be1f-c146-42bd-aa59-3f506a2158cd-25ebf081cd911fcf4680.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\4ee3be1f-c146-42bd-aa59-3f506a2158cd-25ebf081cd911fcf4680.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\51f9881c-dca6-49f2-b985-f56b9e4924cf-Basics of Programming.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\51f9881c-dca6-49f2-b985-f56b9e4924cf-Basics of Programming.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\580c9631-2e29-4237-a8d9-6691066756ea-Cloud Computing.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\580c9631-2e29-4237-a8d9-6691066756ea-Cloud Computing.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\59b43245-45c7-456e-89c8-06f539d36091-Mobile Development.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\59b43245-45c7-456e-89c8-06f539d36091-Mobile Development.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\5a612bab-58d9-4482-999a-9e66d42a6791-ASM1_BI_GROUP1_NguyenDucThang_BH00151.docx",
+      "PackagePath": "staticwebassets\\uploads\\images\\5a612bab-58d9-4482-999a-9e66d42a6791-ASM1_BI_GROUP1_NguyenDucThang_BH00151.docx"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\5b612c2b-30f7-4897-9ad4-c3af4f0ae1e0-Screenshot 2023-11-17 161733.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\5b612c2b-30f7-4897-9ad4-c3af4f0ae1e0-Screenshot 2023-11-17 161733.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\5c734288-06eb-4258-a1a1-d04790b7db42-xcom2.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\5c734288-06eb-4258-a1a1-d04790b7db42-xcom2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\5c7b637d-1b3e-44a9-bd0f-df073ea7f6d0-4000_3_08.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\5c7b637d-1b3e-44a9-bd0f-df073ea7f6d0-4000_3_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\5e787a94-edba-4b58-aade-2c19267ded96-Introduction to Programming.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\5e787a94-edba-4b58-aade-2c19267ded96-Introduction to Programming.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\625e96a4-986e-4ec9-834e-27b864e55bd1-241538002_434026191382496_6883045444171027953_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\625e96a4-986e-4ec9-834e-27b864e55bd1-241538002_434026191382496_6883045444171027953_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\62fc1636-003a-49cd-8544-0ce929f24faf-Big Data và Data Analytics.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\62fc1636-003a-49cd-8544-0ce929f24faf-Big Data và Data Analytics.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\649f2560-6805-4e49-9a58-76d1dff4e24b-Networking.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\649f2560-6805-4e49-9a58-76d1dff4e24b-Networking.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\66294b99-c7b2-4179-a22b-b776b00e8abc-1ST_ASM2_Cloud_Computing_TranHoangAnh_BH00173.pdf",
+      "PackagePath": "staticwebassets\\uploads\\images\\66294b99-c7b2-4179-a22b-b776b00e8abc-1ST_ASM2_Cloud_Computing_TranHoangAnh_BH00173.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\681254a0-fe98-41e8-8fdf-52bb38bdc7b8-30da1ed0f8a72cf975b6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\681254a0-fe98-41e8-8fdf-52bb38bdc7b8-30da1ed0f8a72cf975b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\686427bc-c514-4964-80bc-c044302127e8-tải xuống (6).jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\686427bc-c514-4964-80bc-c044302127e8-tải xuống (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\68b84be0-ce0d-4239-8f1a-e6d41504824f-240746710_213720270798052_6283073515569483416_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\68b84be0-ce0d-4239-8f1a-e6d41504824f-240746710_213720270798052_6283073515569483416_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\70a84e61-3cb8-45cb-a66c-cdf9997cffe4-4000_3_08.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\70a84e61-3cb8-45cb-a66c-cdf9997cffe4-4000_3_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\71d53487-a553-458e-a920-7feab31fd43f-anhdemo.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\71d53487-a553-458e-a920-7feab31fd43f-anhdemo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\72b28b62-3f53-4a97-a0f6-b33a2b4aa0b2-1 (1).docx",
+      "PackagePath": "staticwebassets\\uploads\\images\\72b28b62-3f53-4a97-a0f6-b33a2b4aa0b2-1 (1).docx"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\73c48c5b-756e-4c87-b4e8-0cd279d48cf1-4000_3_08.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\73c48c5b-756e-4c87-b4e8-0cd279d48cf1-4000_3_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\74362207-2ece-4e1c-9814-745c818694e3-artificial intelligence.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\74362207-2ece-4e1c-9814-745c818694e3-artificial intelligence.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\75214398-227c-4e72-914b-12f139fd48b1-1.docx",
+      "PackagePath": "staticwebassets\\uploads\\images\\75214398-227c-4e72-914b-12f139fd48b1-1.docx"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\759f4116-67d5-41e4-9e37-c02a24d963aa-Screenshot 2023-12-15 175552.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\759f4116-67d5-41e4-9e37-c02a24d963aa-Screenshot 2023-12-15 175552.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\767b05b2-cdca-4b96-914b-86cd87d32933-1.docx",
+      "PackagePath": "staticwebassets\\uploads\\images\\767b05b2-cdca-4b96-914b-86cd87d32933-1.docx"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\767fc274-a934-452e-9c8d-b3eb4afcdb72-artificial intelligence.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\767fc274-a934-452e-9c8d-b3eb4afcdb72-artificial intelligence.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\784007b4-84f6-4f4b-bd02-87883bfcc2f7-Ảnh chụp màn hình (10).png",
+      "PackagePath": "staticwebassets\\uploads\\images\\784007b4-84f6-4f4b-bd02-87883bfcc2f7-Ảnh chụp màn hình (10).png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\78dc8705-c7ba-4a4e-a32d-9e1102d131bb-4a4942256ccdac93f5dc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\78dc8705-c7ba-4a4e-a32d-9e1102d131bb-4a4942256ccdac93f5dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\7bcc5173-ebcf-4a25-b8df-f56530fc4ed6-25ebf081cd911fcf4680.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\7bcc5173-ebcf-4a25-b8df-f56530fc4ed6-25ebf081cd911fcf4680.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\7e6fd76b-d072-42cb-a110-eb5cb9a34d32-2.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\7e6fd76b-d072-42cb-a110-eb5cb9a34d32-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\7fecb536-6811-441b-84d5-c6d3221727ca-241538002_434026191382496_6883045444171027953_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\7fecb536-6811-441b-84d5-c6d3221727ca-241538002_434026191382496_6883045444171027953_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\81232a91-c46e-4678-a221-178b2f07c164-Screenshot 2023-12-15 173641.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\81232a91-c46e-4678-a221-178b2f07c164-Screenshot 2023-12-15 173641.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\8576de49-6a8e-499a-abb8-2f50b5026227-Web development.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\8576de49-6a8e-499a-abb8-2f50b5026227-Web development.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\873af81f-4735-4bf7-a5c0-e29bbbb6e343-anhdemo.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\873af81f-4735-4bf7-a5c0-e29bbbb6e343-anhdemo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\889b8006-0fe7-4c0c-a1db-c244b401331a-4a4942256ccdac93f5dc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\889b8006-0fe7-4c0c-a1db-c244b401331a-4a4942256ccdac93f5dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\88ec8abf-07ca-46cf-96fb-65f9a32cdddd-Software project managemen.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\88ec8abf-07ca-46cf-96fb-65f9a32cdddd-Software project managemen.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\88fa3417-fdbc-456d-acd9-5a9d83507abf-2.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\88fa3417-fdbc-456d-acd9-5a9d83507abf-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\89119028-cc64-4db7-afba-35ace6072c28-1.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\89119028-cc64-4db7-afba-35ace6072c28-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\89697743-090d-4c9c-b0d5-9be0b017d27c-Programming Languages.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\89697743-090d-4c9c-b0d5-9be0b017d27c-Programming Languages.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\8aa0f80b-582f-481e-89bb-4600d237ce37-Web Development.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\8aa0f80b-582f-481e-89bb-4600d237ce37-Web Development.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\8ae2568a-d8d4-4948-b878-24bddeca88f1-4k-oaax18kaapkokaro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\8ae2568a-d8d4-4948-b878-24bddeca88f1-4k-oaax18kaapkokaro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\8e4b7286-1552-4416-b46e-675d4ee127e6-1.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\8e4b7286-1552-4416-b46e-675d4ee127e6-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\8e672d3a-8a3d-4190-baca-4f3c82338658-IoT.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\8e672d3a-8a3d-4190-baca-4f3c82338658-IoT.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\90b2facf-4591-4e33-97f7-8530077eb80b-241538002_434026191382496_6883045444171027953_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\90b2facf-4591-4e33-97f7-8530077eb80b-241538002_434026191382496_6883045444171027953_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\920d36d7-049f-49b6-93b8-df5684e321d2-25ebf081cd911fcf4680.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\920d36d7-049f-49b6-93b8-df5684e321d2-25ebf081cd911fcf4680.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\9543e994-1121-4d07-b416-95cac4c502cb-240728056_861696658068161_7268963085187385448_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\9543e994-1121-4d07-b416-95cac4c502cb-240728056_861696658068161_7268963085187385448_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\95dc9b15-0e1d-400f-ab54-6a1e442fd424-Software Testing.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\95dc9b15-0e1d-400f-ab54-6a1e442fd424-Software Testing.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\966afb63-0e19-42c6-91ed-b93bac931076-1ST_ASM2_Cloud_Computing_TranHoangAnh_BH00173.pdf",
+      "PackagePath": "staticwebassets\\uploads\\images\\966afb63-0e19-42c6-91ed-b93bac931076-1ST_ASM2_Cloud_Computing_TranHoangAnh_BH00173.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\96eab910-715f-4bb0-8c1d-cdff1bcb30ae-271518345_1088484558564896_1332230262890901645_n.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\96eab910-715f-4bb0-8c1d-cdff1bcb30ae-271518345_1088484558564896_1332230262890901645_n.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\a0281aeb-d883-461d-9458-cdc36c82a173-Programming Fundamentals.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\a0281aeb-d883-461d-9458-cdc36c82a173-Programming Fundamentals.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\a058c68f-ee9a-4c51-8c3c-bdac44814192-30da1ed0f8a72cf975b6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\a058c68f-ee9a-4c51-8c3c-bdac44814192-30da1ed0f8a72cf975b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\a23c36a8-d643-4312-9738-0c7e0dbbd9ce-240746710_213720270798052_6283073515569483416_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\a23c36a8-d643-4312-9738-0c7e0dbbd9ce-240746710_213720270798052_6283073515569483416_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\a2e993b6-6e53-43c2-a5bc-cbbd1b3e35b8-4000_3_08.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\a2e993b6-6e53-43c2-a5bc-cbbd1b3e35b8-4000_3_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\a7bd2c7f-7a00-4e35-8bcd-826c4ae149e5-25ebf081cd911fcf4680.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\a7bd2c7f-7a00-4e35-8bcd-826c4ae149e5-25ebf081cd911fcf4680.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\aa13020b-d212-454a-b8d6-a5b853b0eb16-4000_3_08.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\aa13020b-d212-454a-b8d6-a5b853b0eb16-4000_3_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\aadeda18-0b79-4bc4-b218-1ec7a42be990-Screenshot 2023-12-15 173641.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\aadeda18-0b79-4bc4-b218-1ec7a42be990-Screenshot 2023-12-15 173641.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\aaf45dec-1c44-4a80-8ab1-cf1d43b0f7ab-Big Data và Data Analytics.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\aaf45dec-1c44-4a80-8ab1-cf1d43b0f7ab-Big Data và Data Analytics.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\adb69350-def8-49f4-85bd-2642c509e984-4000_3_08.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\adb69350-def8-49f4-85bd-2642c509e984-4000_3_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\b120401f-29e1-4789-a1ae-cb1dbb9627ed-z2997854160533_d736a5036e1d59d092e45ec74bad3e48.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\b120401f-29e1-4789-a1ae-cb1dbb9627ed-z2997854160533_d736a5036e1d59d092e45ec74bad3e48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\b3c22c5b-4c6b-4647-b9af-2581c35ccef6-4a4942256ccdac93f5dc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\b3c22c5b-4c6b-4647-b9af-2581c35ccef6-4a4942256ccdac93f5dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\b4dd0e47-c118-4634-8488-8f7b09170d91-241538002_434026191382496_6883045444171027953_n.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\b4dd0e47-c118-4634-8488-8f7b09170d91-241538002_434026191382496_6883045444171027953_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\ba6e538a-27a2-4678-b9bf-d0476aa31158-4000_3_08.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\ba6e538a-27a2-4678-b9bf-d0476aa31158-4000_3_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\bb781075-00f9-439a-9734-e42117632adb-Basics of Programming.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\bb781075-00f9-439a-9734-e42117632adb-Basics of Programming.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\bd196d6c-48f9-47aa-a371-1f034add3dbe-z2997854160533_d736a5036e1d59d092e45ec74bad3e48.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\bd196d6c-48f9-47aa-a371-1f034add3dbe-z2997854160533_d736a5036e1d59d092e45ec74bad3e48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\bf28f14c-b89c-4961-b11d-7b43ebb1bd0f-4a4942256ccdac93f5dc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\bf28f14c-b89c-4961-b11d-7b43ebb1bd0f-4a4942256ccdac93f5dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\bf55a2ab-5ca1-49d9-8e56-1a656f7ae3d9-2.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\bf55a2ab-5ca1-49d9-8e56-1a656f7ae3d9-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\bfc3f4af-4efb-45d7-8602-d93b0ba2f1a8-4a4942256ccdac93f5dc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\bfc3f4af-4efb-45d7-8602-d93b0ba2f1a8-4a4942256ccdac93f5dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\c0089e94-c3e8-48d4-94e4-d26dc667678b-photo-1503614472-8c93d56e92ce.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\c0089e94-c3e8-48d4-94e4-d26dc667678b-photo-1503614472-8c93d56e92ce.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\c29cd7ba-f13c-4c96-8725-d65ef8e3a3b9-4k-oaax18kaapkokaro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\c29cd7ba-f13c-4c96-8725-d65ef8e3a3b9-4k-oaax18kaapkokaro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\c3a1d9ee-ccf6-411e-a7ac-f72534e86d82-Networking.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\c3a1d9ee-ccf6-411e-a7ac-f72534e86d82-Networking.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\c3d6117f-682b-4829-b696-872f5eb2f401-4k-oaax18kaapkokaro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\c3d6117f-682b-4829-b696-872f5eb2f401-4k-oaax18kaapkokaro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\c503fa58-35d9-4ff7-964d-982e4a9f205d-271518345_1088484558564896_1332230262890901645_n (1).png",
+      "PackagePath": "staticwebassets\\uploads\\images\\c503fa58-35d9-4ff7-964d-982e4a9f205d-271518345_1088484558564896_1332230262890901645_n (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\c557eea5-17c3-42d4-bc61-25a8cc86da0e-1ST_Group-Project_TranHoangAnh_BH00173-.docx",
+      "PackagePath": "staticwebassets\\uploads\\images\\c557eea5-17c3-42d4-bc61-25a8cc86da0e-1ST_Group-Project_TranHoangAnh_BH00173-.docx"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\c934e7c3-de9a-4d45-aebe-62683de187c7-pexels-photo-1287145.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\images\\c934e7c3-de9a-4d45-aebe-62683de187c7-pexels-photo-1287145.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\cc7a14d1-2a7c-4ef2-9279-1268a66e0d34-screaming_cowboy_meme___windows_xp_background_by_x_sharix_x_ddd2kca-fullview.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\cc7a14d1-2a7c-4ef2-9279-1268a66e0d34-screaming_cowboy_meme___windows_xp_background_by_x_sharix_x_ddd2kca-fullview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\d2b2cd2f-cef3-4df8-a8e7-e640620be38b-2022-11-28-21-57-27_0.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\d2b2cd2f-cef3-4df8-a8e7-e640620be38b-2022-11-28-21-57-27_0.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\d35a30ac-6b39-4fdb-89cf-ff7dc0b4167c-Screenshot 2023-11-17 161733.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\d35a30ac-6b39-4fdb-89cf-ff7dc0b4167c-Screenshot 2023-11-17 161733.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\da75e5de-d389-48ba-8e06-e529afecef00-Virtual Reality (VR) và Augmented Reality (AR).jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\da75e5de-d389-48ba-8e06-e529afecef00-Virtual Reality (VR) và Augmented Reality (AR).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\dbd1fc86-f373-4c65-82a6-32e79cff3873-271518345_1088484558564896_1332230262890901645_n (1).png",
+      "PackagePath": "staticwebassets\\uploads\\images\\dbd1fc86-f373-4c65-82a6-32e79cff3873-271518345_1088484558564896_1332230262890901645_n (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\df539844-d713-424d-bc4e-59dd70d530b1-logo.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\df539844-d713-424d-bc4e-59dd70d530b1-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\e12ae15e-9041-4d9f-a718-4e592280496b-4000_3_08.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\e12ae15e-9041-4d9f-a718-4e592280496b-4000_3_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\e28f0f86-a665-4145-9d32-e2f5136d6fe5-z2997854160533_d736a5036e1d59d092e45ec74bad3e48.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\e28f0f86-a665-4145-9d32-e2f5136d6fe5-z2997854160533_d736a5036e1d59d092e45ec74bad3e48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\e79e6835-72e5-48e0-9c60-e24bbdf209b9-GameDevelopment.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\e79e6835-72e5-48e0-9c60-e24bbdf209b9-GameDevelopment.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\ea67d549-ac91-4fbd-a7cd-2e6014d21e6f-2.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\ea67d549-ac91-4fbd-a7cd-2e6014d21e6f-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\eb825573-fc2f-414d-a46e-e6c8026c8bd2-UXUI_Design.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\eb825573-fc2f-414d-a46e-e6c8026c8bd2-UXUI_Design.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\edbf1d94-2db6-4ff6-bb70-97f1d025002d-1 (1).docx",
+      "PackagePath": "staticwebassets\\uploads\\images\\edbf1d94-2db6-4ff6-bb70-97f1d025002d-1 (1).docx"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\ee74339a-294d-4d87-bd29-df22d07acc92-Security.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\ee74339a-294d-4d87-bd29-df22d07acc92-Security.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\f79ead4d-fb07-4b5a-84a0-4b3cd9b7fe51-271518345_1088484558564896_1332230262890901645_n (1).png",
+      "PackagePath": "staticwebassets\\uploads\\images\\f79ead4d-fb07-4b5a-84a0-4b3cd9b7fe51-271518345_1088484558564896_1332230262890901645_n (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\fc565f0f-8f08-47ca-9eca-d87ef3ccae2a-4a4942256ccdac93f5dc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\fc565f0f-8f08-47ca-9eca-d87ef3ccae2a-4a4942256ccdac93f5dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\images\\fd8d7924-9d40-46f0-8ca9-eb399128cf32-devops.jfif",
+      "PackagePath": "staticwebassets\\uploads\\images\\fd8d7924-9d40-46f0-8ca9-eb399128cf32-devops.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\videos\\047cca46-2e66-4e76-a87d-083fbd29aed9-mov_bbb.mp4",
+      "PackagePath": "staticwebassets\\uploads\\videos\\047cca46-2e66-4e76-a87d-083fbd29aed9-mov_bbb.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\videos\\132b494d-72ac-4797-a0d8-6d9befbd7605_movie.mp4",
+      "PackagePath": "staticwebassets\\uploads\\videos\\132b494d-72ac-4797-a0d8-6d9befbd7605_movie.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\videos\\3ae9b22b-ad31-4645-acef-07339fb843b4-movie.mp4",
+      "PackagePath": "staticwebassets\\uploads\\videos\\3ae9b22b-ad31-4645-acef-07339fb843b4-movie.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\videos\\56b5fc90-ef0f-4031-aec5-0a6658fcfbe4-movie.mp4",
+      "PackagePath": "staticwebassets\\uploads\\videos\\56b5fc90-ef0f-4031-aec5-0a6658fcfbe4-movie.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\videos\\5a64588f-f0fe-408f-b7f0-84f5b77e5b45-(2673) Cách sử dụng GitHub bằng Git Bash - Upload file to Github with Git Bash - YouTube - Opera 2023-01-03 09-07-56.mp4",
+      "PackagePath": "staticwebassets\\uploads\\videos\\5a64588f-f0fe-408f-b7f0-84f5b77e5b45-(2673) Cách sử dụng GitHub bằng Git Bash - Upload file to Github with Git Bash - YouTube - Opera 2023-01-03 09-07-56.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\videos\\927d41d3-d2aa-4789-8a47-652f081b3de9-movie.mp4",
+      "PackagePath": "staticwebassets\\uploads\\videos\\927d41d3-d2aa-4789-8a47-652f081b3de9-movie.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\videos\\a7904b76-dd6d-4a2b-b7e8-7b6649d340c0-movie.mp4",
+      "PackagePath": "staticwebassets\\uploads\\videos\\a7904b76-dd6d-4a2b-b7e8-7b6649d340c0-movie.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Source Code\\Source Code\\Tranning\\Tranning\\Tranning\\wwwroot\\uploads\\videos\\c885fccc-276b-40fa-a788-30f7078da115-mov_bbb.mp4",
+      "PackagePath": "staticwebassets\\uploads\\videos\\c885fccc-276b-40fa-a788-30f7078da115-mov_bbb.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Tranning.props",
+      "PackagePath": "build\\Tranning.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Tranning.props",
+      "PackagePath": "buildMultiTargeting\\Tranning.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Tranning.props",
+      "PackagePath": "buildTransitive\\Tranning.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
